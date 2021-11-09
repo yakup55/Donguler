@@ -13,7 +13,7 @@ namespace Metotlar
             double fiyati = 15;
             string aciklama = "amasya elması";
 
-
+            
             string[] meyveler = new string[] { };
 
             Urün urun1= new Urün();
